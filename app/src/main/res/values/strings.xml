@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidTinkoffHomeWork1_Sokolov</string>
+    <string name="tinkoff_greeting">Tinkoff загрузчик контактов:)</string>
+    <string name="enter_your_name">Введите ваше имя\n(простенькая аутентификация)</string>
+    <string name="enter_your_name_hint">Введите имя</string>
+    <string name="click_button">клик</string>
+    <string name="alert">Пожалуйста, заполните поля имя!</string>
+    <string name="ask_for_user_click_button">Здравствуйте, %s тыкните кнопку ниже!</string>
+    <string name="button_download_contacts">ТУК</string>
+    <string name="random_answer_for_user">Вам выпало рандомное число:\n%s</string>
+</resources>
